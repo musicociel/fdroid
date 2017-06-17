@@ -270,4 +270,4 @@ keystore = os.environ["jks_file"]
 keypass = os.environ["jks_password"]
 keystorepass = os.environ["jks_password"]
 repo_keyalias = "repokey"
-accepted_formats = ['json']
+accepted_formats = ['txt']
